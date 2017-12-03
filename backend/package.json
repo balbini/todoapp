@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.2"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-reload": "^1.1.0",
+    "reload": "^2.2.2"
   },
   "devDependencies": {},
   "scripts": {
